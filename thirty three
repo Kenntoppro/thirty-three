@@ -1,0 +1,5 @@
+tir = int(input( ))
+if tir >= -1 and tir <= 17:
+print('принадлежит')
+else:
+print('не принадлежит')
